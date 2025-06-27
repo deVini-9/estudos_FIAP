@@ -1,0 +1,8 @@
+Entidade: HISTORICO_ST_CHAMADO
+O HISTÓRICO DE CHAMADO está associado ao CHAMADO, sempre que houver alteração no chamado o sistema deve armazenar a mudança na entidade HISTORICO_ST_CHAMADO considerando o novo status do chamado, a data inicial e data final contendo a hora da alteração. 
+As principais informações são: 
+Código do histórico (PK);  
+Status do histórico (conteúdo obrigatório, pode receber apenas os seguintes conteúdos: A(tivo) ou
+I(nativo). Para essa coluna status do produto, crie uma restrição do tipo check constraint, permitindo apenas o conteúdo A ou I);
+Data inicial e hora da alteração do chamado (conteúdo obrigatório);
+Data final e hora da alteração do chamado (conteúdo opcional).
