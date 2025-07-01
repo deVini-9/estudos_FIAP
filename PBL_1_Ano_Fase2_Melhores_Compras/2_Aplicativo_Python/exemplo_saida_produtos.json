@@ -1,0 +1,32 @@
+[
+    {
+        "descricao_produto": "Produto Teste",
+        "valor_produto": 100.0,
+        "tipo_embalagem": "Plástica",
+        "icms_produto": 18.0
+    },
+    {
+        "descricao_produto": "Salgadinha Cheetos Requijão",
+        "valor_produto": 12.5,
+        "tipo_embalagem": "Plástica",
+        "icms_produto": 2.25
+    },
+    {
+        "descricao_produto": "Água sanitaria 2l",
+        "valor_produto": 25.0,
+        "tipo_embalagem": "Garrafa Plástica",
+        "icms_produto": 4.5
+    },
+    {
+        "descricao_produto": "Produto Teste 02",
+        "valor_produto": 5.0,
+        "tipo_embalagem": "Sacola",
+        "icms_produto": 0.9
+    },
+    {
+        "descricao_produto": "Alface",
+        "valor_produto": 3.5,
+        "tipo_embalagem": "Sacola",
+        "icms_produto": 0.63
+    }
+]
